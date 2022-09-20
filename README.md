@@ -1,2 +1,2 @@
 # Project 1
-Proj
+We have taken the stock values of amazon from past 19 years , after checking for stationarity and applying the shapiro test on it. We plotted the acf and pacf for the data to get the order of AR and MA , after that checking for the seasonality we predicted the value of the stock for upcoming 10 days using ARIMA model and 20 days using SARIMA model. Btw the data is not seasonal but still taking it as assumption we predicted for it and checked the difference between the predicted values by the two model
